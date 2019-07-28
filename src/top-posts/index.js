@@ -1,0 +1,1 @@
+export { TopPosts } from './top-posts.container';

@@ -1,9 +1,11 @@
 import React from 'react';
 
+import { TopPosts } from './top-posts';
+
 function App() {
   return (
     <div className="App">
-      Our HN clone!
+      <TopPosts />
     </div>
   );
 }
